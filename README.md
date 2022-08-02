@@ -2,7 +2,7 @@
 
 ### Hi there 👋, My name is Vedat
 #### I'm trying to be a Web Developer
-I'm Vedat from Turkey and generally I learn JavaScript. Learning is fun for me.
+I'm Vedat from Turkey and generally I learn JavaScript. 
 
 - 🌱 I’m currently learning Javascript and React 
 - 💬 Ask me about HTML and CSS 
