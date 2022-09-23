@@ -11,7 +11,7 @@ Skills:
   ⚛ REACT, BOOTSTRAP
   💻 HTML/ JS / CSS / C# 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkeycode&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkeycode&count_private=true&show_icons=true&theme=gruvbox)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vkeycode?tab=repositories)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vedat-eroglu/)  
