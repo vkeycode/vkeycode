@@ -8,9 +8,10 @@ I'm Vedat from Turkey and generally I learn JavaScript.
 - 💬 Ask me about HTML and CSS 
 
 Skills: 
-  ⚛ REACT 
-  💻 HTML/ JS / CSS
+  ⚛ REACT, BOOTSTRAP
+  💻 HTML/ JS / CSS / C# 
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkeycode)](https://github.com/vkeycode/github-readme-stats)
 
 
 
