@@ -11,7 +11,7 @@ Skills:
   ⚛ REACT, BOOTSTRAP
   💻 HTML/ JS / CSS / C# 
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkeycode)](https://github.com/vkeycode/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkeycode)](https://github.com/vkeycode/github-readme-stats?username=anuraghazra&count_private=true)
 
 
 
