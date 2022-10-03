@@ -7,9 +7,8 @@ I'm Vedat from Turkey and generally I learn JavaScript.
 - 🌱 I’m currently learning Javascript and React 
 - 💬 Ask me about HTML and CSS 
 
-Skills: 
-  ⚛ REACT, BOOTSTRAP
-  💻 HTML/ JS / CSS / C# 
+Specialties:  JavaScript, C#, SQL, HTML5, CSS
+Technologies: React.Js, Bootstrap, Live-LinkNpm, .Net, SASS 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkeycode&count_private=true&show_icons=true&theme=gruvbox)
 
