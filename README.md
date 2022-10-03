@@ -10,7 +10,7 @@ I'm Vedat from Turkey and generally I learn JavaScript.
 Specialties:  JavaScript, C#, SQL, HTML5, CSS
 
 
-Technologies: React.Js, Bootstrap, Live-LinkNpm, .Net, SASS 
+Technologies: React.Js, Bootstrap, Npm, .Net, SASS 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkeycode&count_private=true&show_icons=true&theme=gruvbox)
 
