@@ -7,10 +7,10 @@ I had worked for 9 years as a CNC operator, until I have decided to follow a new
 - 🌱 I am currently developing Next.JS and React.JS projects 
 - 💬 Ask me about React.JS and Next.JS
 
-Specialties:  JavaScript, C#, SQL, HTML5, CSS
+Specialties:  JavaScript, C#, SQL, HTML, CSS
 
 
-Technologies: React.Js, Bootstrap, Npm, .Net, SASS 
+Technologies: React.Js, Next.js, Redux, Bootstrap, Npm, .Net, SASS, Taildwind, MaterialUI
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkeycode&count_private=true&show_icons=true&theme=gruvbox)
 
